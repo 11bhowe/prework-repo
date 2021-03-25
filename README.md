@@ -2,9 +2,9 @@
 
 **Memory Game** is a Light & Sound Memory game to apply for CodePath's SITE Program. 
 
-Submitted by: Brianna Howe
+Submitted by: **Brianna Howe**
 
-Time spent: 6 hours spent in total
+Time spent: **6** hours spent in total
 
 Link to project: https://glitch.com/edit/#!/azure-trusting-jackal
 
@@ -39,7 +39,6 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-![](your-link-here)
 ![](https://i.imgur.com/eoDUQ65.gif)
 
 
